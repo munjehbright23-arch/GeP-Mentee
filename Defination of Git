@@ -1,0 +1,12 @@
+#What is Git and Github
+##Git  
+Git is a version control system-basically a tool that tracks changes to files overtime so you can collaborate without overwrtting each others work.
+
+##Github
+This is a website or service that hosts Git repositories and add collaboration tools on top
+
+##Key Ideas
+-Repositories: A folder Git is tracking. It stores the full history of every change.
+-Commit: A sna[pshort of your filed at one moment.
+-Branch: A seperate line of work.               
+  
