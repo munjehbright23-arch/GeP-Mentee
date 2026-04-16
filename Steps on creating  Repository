@@ -1,0 +1,14 @@
+##Creating a repository
+
+#steps on Creating a repo on Github
+Click the "+" icon on github
+chose new repo
+add a name,description
+chose if you want a oublic or private repo
+add a README which is optional
+you cna now click on "create repo"
+
+##key terms
+README: an introductory file for your project
+.gitignore: tells Git which files to ignore
+License: Defines how others csn use your code
