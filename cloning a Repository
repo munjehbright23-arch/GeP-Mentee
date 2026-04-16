@@ -1,0 +1,17 @@
+# what is cloning
+cloning means donloading a copy of your repo to your machine.
+
+#steps in cloning a repo
+
+-first copy the repo URL
+-Open terminal/command prompt(on windows, open Gitbash,CMD, or powershell, for mac, open termial, and for Linux, open your terminal)
+-Go to the folder you want
+-Run the clone command
+-and finally enter the project folder
+
+##Reasons for cloning
+-to be able to work on hr code locally
+-contribute to the project
+-get full history
+-work offline
+and mosot importantly, backup the repo
